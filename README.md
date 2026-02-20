@@ -73,6 +73,7 @@ Proof of Work
 Relevant participation certificates and documentation are included in the docs folder.
 
 Why This Project
+
 This project demonstrates: • Real-world problem solving
 • FPGA-based signal processing
 • Hardware–software co-design
